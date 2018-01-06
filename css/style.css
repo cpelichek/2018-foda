@@ -1,0 +1,10 @@
+.carousel-item {
+  width: 286px;
+  height: 286px;
+}
+
+@media (min-width: 522px) {
+  div.col[id] {
+    padding-top: 16px!important;
+  }
+}
